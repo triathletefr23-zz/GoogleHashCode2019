@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 
 class SlideshowMaster {
     private final int count;
@@ -18,6 +19,9 @@ class SlideshowMaster {
             if (photoParams[0].equals("H")) horizontals.add(photo);
             else verticals.add(photo);
         }
+
+//        this.horizontals.sort(Comparator.comparingInt(p -> p.Tags.length));
+//        this.verticals.sort(Comparator.comparingInt(p -> p.Tags.length));
     }
 
     int getPhotosCount() {
@@ -38,8 +42,13 @@ class SlideshowMaster {
         return result;
     }
 
-    Iterable<Slide> Create() {
+    Iterable<Slide> create() {
         var ids = new ArrayList<Slide>();
         return ids;
+    }
+
+    int findNextPhoto() {
+        var first = this.horizontals.get(0);
+        return 0;
     }
 }

@@ -6,7 +6,7 @@ public class SlideshowMasterShould {
     private final static String b_lovely_landscapes_filename = "data\\b_lovely_landscapes.txt";
     private final static String c_memorable_moments_filename = "data\\c_memorable_moments.txt";
     private final static String d_pet_pictures_filename = "data\\d_pet_pictures.txt";
-    private final static String example = "data\\example.txt";
+    private final static String e_shiny_selfies = "data\\e_shiny_selfies.txt";
 
     private SlideshowMaster master;
 
@@ -26,5 +26,17 @@ public class SlideshowMasterShould {
         master = new SlideshowMaster(a_example_filename);
         Assert.assertEquals(2, master.getHorizontalsCount());
         Assert.assertEquals(2, master.getVerticalsCount());
+    }
+
+    @Test
+    public void ReadThirdFileAndReturnPhotos() {
+        master = new SlideshowMaster(c_memorable_moments_filename);
+        Assert.assertEquals(1000, master.getHorizontalsCount() + master.getVerticalsCount());
+    }
+
+    @Test
+    public void ShouldTakeAPhotoOrAPairOfPhotosTheBiggestNumberOfCommongTags_A() {
+        master = new SlideshowMaster(a_example_filename);
+        var number = master.findNextPhoto();
     }
 }

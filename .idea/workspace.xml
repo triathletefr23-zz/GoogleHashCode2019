@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6be9ea8a-b7dd-4e82-ace6-f60fd09b56a4" name="Default Changelist" comment="" />
+    <list default="true" id="6be9ea8a-b7dd-4e82-ace6-f60fd09b56a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhotoComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhotoComparatorShould.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SlideshowMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SlideshowMaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SlideshowMasterShould.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SlideshowMasterShould.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,17 +20,32 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/SlideshowMaster.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="359">
-                  <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+                <state relative-caret-position="145">
+                  <caret line="41" selection-start-line="41" selection-end-line="41" />
                   <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#791#792#0" expanded="true" />
                     <element signature="e#824#825#0" expanded="true" />
-                    <element signature="e#862#863#0" expanded="true" />
-                    <element signature="e#888#889#0" expanded="true" />
                     <element signature="e#934#935#0" expanded="true" />
-                    <element signature="e#980#981#0" expanded="true" />
+                    <element signature="e#978#979#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/PhotoComparator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="439">
+                  <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#819#820#0" expanded="true" />
+                    <element signature="e#912#913#0" expanded="true" />
+                    <element signature="e#1007#1008#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -42,15 +64,27 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/SlideshowMasterShould.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="168">
-                  <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+                <state relative-caret-position="84">
+                  <caret line="4" selection-start-line="4" selection-end-line="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#138#139#0" expanded="true" />
-                    <element signature="e#156#157#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/PhotoComparatorShould.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="229">
+                  <caret line="33" selection-start-line="33" selection-end-line="33" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#232#233#0" expanded="true" />
+                    <element signature="e#296#297#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -59,8 +93,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Photo.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="21">
-                  <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+                <state relative-caret-position="42">
+                  <caret line="2" column="23" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -76,14 +110,24 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>o1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Slide.java" />
         <option value="$PROJECT_DIR$/src/Photo.java" />
         <option value="$PROJECT_DIR$/src/SlideshowMasterShould.java" />
-        <option value="$PROJECT_DIR$/src/Slide.java" />
         <option value="$PROJECT_DIR$/src/SlideshowMaster.java" />
+        <option value="$PROJECT_DIR$/src/PhotoComparatorShould.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/PhotoComparator.java" />
       </list>
     </option>
   </component>
@@ -93,6 +137,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -128,7 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551721893589" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551735876239" />
     <property name="last_opened_file_path" value="$USER_HOME$/algs4/stdlib.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -147,7 +192,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SlideshowMasterShould">
+  <component name="RunManager" selected="JUnit.PhotoComparatorShould">
+    <configuration name="PhotoComparatorShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSolution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhotoComparatorShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSolution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhotoComparatorShould" />
+      <option name="METHOD_NAME" value="CalculateScoreForFirstAndLastPhoto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSolution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhotoComparatorShould" />
+      <option name="METHOD_NAME" value="CalculateScoreForFirstAndLastPhoto2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SlideshowMasterShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaSolution" />
       <option name="PACKAGE_NAME" value="" />
@@ -157,21 +231,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlideshowMasterShould.ReadExampleFileAndReturnPhotos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SlideshowMasterShould.ReadThirdFileAndReturnPhotos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaSolution" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SlideshowMasterShould" />
-      <option name="METHOD_NAME" value="ReadExampleFileAndReturnPhotos" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SlideshowMasterShould.ThrowNullParameterExceptionIfFIlePathIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaSolution" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SlideshowMasterShould" />
-      <option name="METHOD_NAME" value="ThrowNullParameterExceptionIfFIlePathIsNull" />
+      <option name="METHOD_NAME" value="ReadThirdFileAndReturnPhotos" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,9 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PhotoComparatorShould" />
+        <item itemvalue="JUnit.PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto2" />
+        <item itemvalue="JUnit.PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" />
+        <item itemvalue="JUnit.SlideshowMasterShould.ReadThirdFileAndReturnPhotos" />
         <item itemvalue="JUnit.SlideshowMasterShould" />
-        <item itemvalue="JUnit.SlideshowMasterShould.ReadExampleFileAndReturnPhotos" />
-        <item itemvalue="JUnit.SlideshowMasterShould.ThrowNullParameterExceptionIfFIlePathIsNull" />
       </list>
     </recent_temporary>
   </component>
@@ -199,36 +265,78 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SlideshowMasterShould - 2019.03.03 at 15h 57m 14s.xml">
-      <configuration name="SlideshowMasterShould" configurationId="JUnit" />
+    <history-entry file="PhotoComparatorShould_CalculateScoreForFirstAndLastPhoto - 2019.03.04 at 22h 31m 30s.xml">
+      <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SlideshowMasterShould_ThrowNullParameterExceptionIfFIlePathIsNull - 2019.03.03 at 15h 57m 47s.xml">
-      <configuration name="SlideshowMasterShould.ThrowNullParameterExceptionIfFIlePathIsNull" configurationId="JUnit" />
+    <history-entry file="PhotoComparatorShould_CalculateScoreForFirstAndLastPhoto - 2019.03.04 at 22h 33m 27s.xml">
+      <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SlideshowMasterShould - 2019.03.03 at 16h 24m 59s.xml">
-      <configuration name="SlideshowMasterShould" configurationId="JUnit" />
+    <history-entry file="PhotoComparatorShould_CalculateScoreForFirstAndLastPhoto - 2019.03.04 at 22h 34m 12s.xml">
+      <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SlideshowMasterShould - 2019.03.03 at 16h 42m 32s.xml">
-      <configuration name="SlideshowMasterShould" configurationId="JUnit" />
+    <history-entry file="PhotoComparatorShould_CalculateScoreForFirstAndLastPhoto - 2019.03.04 at 22h 35m 21s.xml">
+      <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SlideshowMasterShould_ReadExampleFileAndReturnPhotos - 2019.03.03 at 16h 43m 16s.xml">
-      <configuration name="SlideshowMasterShould.ReadExampleFileAndReturnPhotos" configurationId="JUnit" />
+    <history-entry file="PhotoComparatorShould_CalculateScoreForFirstAndLastPhoto - 2019.03.04 at 22h 35m 28s.xml">
+      <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SlideshowMasterShould - 2019.03.03 at 16h 43m 34s.xml">
-      <configuration name="SlideshowMasterShould" configurationId="JUnit" />
+    <history-entry file="PhotoComparatorShould_CalculateScoreForFirstAndLastPhoto - 2019.03.04 at 22h 36m 06s.xml">
+      <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhotoComparatorShould_CalculateScoreForFirstAndLastPhoto - 2019.03.04 at 22h 39m 41s.xml">
+      <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhotoComparatorShould_CalculateScoreForFirstAndLastPhoto - 2019.03.04 at 22h 39m 58s.xml">
+      <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhotoComparatorShould - 2019.03.04 at 22h 40m 19s.xml">
+      <configuration name="PhotoComparatorShould" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhotoComparatorShould_CalculateScoreForFirstAndLastPhoto2 - 2019.03.04 at 22h 41m 17s.xml">
+      <configuration name="PhotoComparatorShould.CalculateScoreForFirstAndLastPhoto2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-1088" width="1936" height="1066" extended-state="6" />
+    <frame x="0" y="-1080" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1444563" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34822336" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.34871244" />
@@ -241,6 +349,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -249,16 +358,22 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SlideshowMaster.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/SlideshowMasterShould.java</url>
+          <line>33</line>
           <properties />
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PhotoComparator.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -271,24 +386,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/algs4/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/algs4/Part2/BaseballElimination/src/BaseballEliminationShould.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -299,13 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Photo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Slide.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -313,28 +407,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/function/ToIntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Photo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SlideshowMasterShould.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SlideshowMaster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        <state relative-caret-position="145">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
             <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
             <element signature="e#934#935#0" expanded="true" />
-            <element signature="e#980#981#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/algs4/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PhotoComparatorShould.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PhotoComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
           </folding>
         </state>
       </provider>
