@@ -1,0 +1,9 @@
+8
+H 3 cat beach sun
+V 2 selfie smile
+V 2 garden selfie
+H 2 garden cat
+V 3 garden smile selfie
+V 3 cat smile house
+H 2 jj ddd
+V 3 cat house hello
